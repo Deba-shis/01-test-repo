@@ -1,4 +1,13 @@
 target/
+.exe
+.extension
+.extensions
+.txt
+*
+!*/
+!*.*
+
+
 # Ignore all
 *
 
