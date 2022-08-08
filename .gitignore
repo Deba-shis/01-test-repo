@@ -6,6 +6,8 @@ target/
 *
 !*/
 !*.*
+.dockerfile
+
 
 
 # Ignore all
